@@ -5,7 +5,7 @@ Tracks the number of Visitors & purpose of Visit.
 ## Tools:
 - Ruby On Rails (4.2.3)
 - AngularJS (1.4.8)
-- Bootstrap
+- Bootstrap (3.3.5)
 
 ## Steps:
 This README would normally document whatever steps are necessary to get the
