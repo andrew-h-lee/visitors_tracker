@@ -1,6 +1,6 @@
 # Visitors_Tracker App
 
-- Tracks the number of Visitors & Stating their Purpose of Visit. 
+- Tracks the number of Visitors & Stating each Visitors' Purpose of Visit. 
 - Application used in a Hospital Setting.
 
 ## Tools Used:
