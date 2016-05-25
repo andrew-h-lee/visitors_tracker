@@ -16,4 +16,5 @@
 //= require angular
 //= require angular-resource
 //= require bootstrap-sprockets
-//= require_tree 
+//= require_tree
+//= require angular-mocks
