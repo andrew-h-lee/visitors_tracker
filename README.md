@@ -14,4 +14,5 @@
 
 ## Reference:
 [Getting Started with Angularjs & Rails](https://richonrails.com/articles/getting-started-with-angularjs-and-rails)
+
 [Jasmine-Gem](https://github.com/jasmine/jasmine-gem)
