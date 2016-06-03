@@ -8,6 +8,9 @@
 - Ruby On Rails (4.2.3)
 - AngularJS (1.4.8)
 - Bootstrap (3.3.5)
+- Sass
+- Bourbon
+- Neat
 - Jasmine (2.4.1; used the Gem Version)
 
 ## Screenshots:
@@ -19,3 +22,7 @@
 [Jasmine-Gem](https://github.com/jasmine/jasmine-gem)
 
 [Unit Testing Angularjs with Jasmine](https://blog.pivotal.io/labs/labs/unit-testing-angularjs-using-jasmine)
+
+[Bourbon](https://github.com/thoughtbot/bourbon)
+
+[Neat](https://github.com/thoughtbot/neat)
