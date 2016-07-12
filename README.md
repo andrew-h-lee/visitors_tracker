@@ -5,7 +5,7 @@
 - Application used in a Hospital Setting.
 
 ## Tools Used:
-- Ruby On Rails (4.2.3)
+- Ruby On Rails (4.2.6)
 - AngularJS (1.4.8)
 - Bootstrap (3.3.5)
 - Sass
